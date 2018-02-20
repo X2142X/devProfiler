@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Dev Profiller</string>
+    <string name="default_id">The Developer</string>
+    <string name="default_description">-</string>
 </resources>
